@@ -1,0 +1,17 @@
+git clone = git folder clone kore nijer pc te open hoy empty folder e eita git bash er through te kaj korte hobe.
+git log = this command shows the past edit made by other developers
+git log --oneline = gives one line on the edit made previously
+
+
+///////
+Conventional Commit Style
+feat: a new feature
+fix: a bug fix
+docs: Documentation only changes
+style: changes that do not affect the meaning of code (white-space, formatting, missing semicolons,
+etc.)
+refactor: a code change that neither fixes a bug or adds a feature
+perf: a code change that improves performance
+test: add missing tests
+chore: changes to the build process or auxiliary.
+tools and library such as dependencies, CI/CD, etc.
