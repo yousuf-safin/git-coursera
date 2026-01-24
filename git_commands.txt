@@ -26,7 +26,7 @@ git revert ______ commit ID
 Feature Branch Workflow
 
     Update the main branch
-    Create the feature branch
+    Create the feature branch - git checkout -b feature/validation-error
     Develop the feature
     Regularly pull updates
     Test and review
