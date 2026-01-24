@@ -19,3 +19,17 @@ tools and library such as dependencies, CI/CD, etc.
 
 /////////////
 git revert ______ commit ID
+## to roll back - [git reset --hard <tag/branch/commit id>] --> only effect to local repo
+
+///////////////////////
+
+Feature Branch Workflow
+
+    Update the main branch
+    Create the feature branch
+    Develop the feature
+    Regularly pull updates
+    Test and review
+    Open a Pull Request (CI/CD)
+    Merge into main branch.
+    Delete feature branch
